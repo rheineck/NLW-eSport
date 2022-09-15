@@ -1,4 +1,7 @@
-### NLW eSport
+# NLW eSport
 
-This project is a linktree for games.
-Developed on the NLW week from RocketSeat
+This project was developed durign the NextLevelWeek from @RocketSeat.
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/raphael-gilioli-heineck)
