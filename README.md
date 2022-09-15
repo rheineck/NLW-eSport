@@ -1,6 +1,17 @@
-# NLW eSport
+# NLW eSports - Explorer
 
-This project was developed durign the NextLevelWeek from @RocketSeat.
+![preview](./.github/preview.png)
+
+Project developed on NextLevelWeek event from Rocketseat.
+
+[Click here](https://rheineck.github.io/NLW-eSport-explorer/)
+
+
+## Tecnologies
+
+- HTML5
+- CSS3
+- Git e Github
 
 ## 🔗 Links
 
